@@ -1,10 +1,9 @@
 ## Olá, rede! Eu sou a Christiellen Coser
 
-- 🔭 Hoje eu trabalho como professora de Pensamento Computacional e do Programa EduTech
-- 🌱 Iniciei minha graduação em Análise e Desenvolvimento de Sistemas
+- 🔭 Atuo como professora de Pensamento Computacional e do Programa EduTech
+- 🌱 Estudante de Análise e Desenvolvimento de Sistemas
 - ⌛ Participei do Programa Desenvolve Boticário em 2024
 - 🖥️ Atualmente, estou como estagiária na Compass UOL
-- 😄 Pronomes: ela/dela
 
 <div>
   <a href="https://github.com/cmcoser">
