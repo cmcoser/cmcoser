@@ -1,9 +1,8 @@
 ## Olá, rede! Eu sou a Christiellen Coser
 
-- 🔭 Atuo como professora de Pensamento Computacional e do Programa EduTech
 - 🌱 Estudante de Análise e Desenvolvimento de Sistemas
 - ⌛ Participei do Programa Desenvolve Boticário em 2024
-- 🖥️ Atualmente, estou como estagiária na Compass UOL
+- 🖥️ Atualmente, estou como estagiária na HVAR
 
 <div>
   <a href="https://github.com/cmcoser">
