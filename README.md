@@ -1,8 +1,8 @@
 ## Olá, rede! Eu sou a Christiellen Coser
 
 - 🌱 Estudante de Análise e Desenvolvimento de Sistemas
+- 🖥️ Atualmente, atuo como Trainee em Tecnologia na HVAR
 - ⌛ Participei do Programa Desenvolve Boticário em 2024
-- 🖥️ Atualmente, estou como estagiária na HVAR
 
 <div>
   <a href="https://github.com/cmcoser">
